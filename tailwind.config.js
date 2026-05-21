@@ -13,7 +13,7 @@ export default {
           light: '#1E4A8A',
         },
         'brand-yellow': {
-          DEFAULT: '#FFC107', // Accent yellow for CTAs
+          DEFAULT: '#0f2c59', // Accent yellow for CTAs
           dark: '#E0A800',
         },
         'brand-gray': {
