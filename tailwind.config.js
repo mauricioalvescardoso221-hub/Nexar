@@ -9,7 +9,7 @@ export default {
       // Defines custom colors for the brand palette
       colors: {
         'brand-blue': {
-          DEFAULT: '#0D2B4F', // Primary dark blue
+          DEFAULT: '#d0dbe5', // Primary dark blue
           light: '#1E4A8A',
         },
         'brand-yellow': {
