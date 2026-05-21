@@ -12,14 +12,14 @@ import FloatingWhatsApp from './components/FloatingWhatsApp';
 const contactInfo = {
   phone: '5192077430', 
   phoneFormatted: '(51) 9207-7430',   
-  whatsappMessage: 'Olá! Gostaria de um orçamento para um serviço elétrico.',
+  whatsappMessage: 'Olá! Gostaria de fazer um orçamento.',
   facebookUrl: 'https://www.facebook.com/profile.php?id=61583587396964',
   instagramUrl: 'https://www.instagram.com/eletricista.mauricio.cardoso',
 };
 
 function App() {
   return (
-    <div className="bg-white font-sans text-brand-gray-dark">
+    <div className="bg-[#d0dbe5] font-sans text-[#1f2937]">
       <Header contactInfo={contactInfo} />
       <main>
         <Hero contactInfo={contactInfo} />
